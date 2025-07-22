@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.cwd": "${fileDirname}",
+    "workbench.startupEditor": "none",
+    "jupyter.askForKernelRestart": false,
+    "files.associations": {
+        "*.py": "python"
+    },
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.formatOnType": true,
+        "editor.wordBasedSuggestions": "off"
+    },
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-22.04 (WSL)",
+    "window.enableMenuBarMnemonics": false,
+    "python.languageServer": "None",
+    "editor.accessibilitySupport": "on",
+    "flake8.enabled": false,
+}
