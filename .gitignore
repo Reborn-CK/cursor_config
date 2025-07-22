@@ -1,5 +1,6 @@
 # Cursor specific files to ignore
 extensions/
+extensions.zip
 *.log
 *.tmp
 *.cache
